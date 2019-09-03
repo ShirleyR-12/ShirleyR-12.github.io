@@ -1,6 +1,6 @@
 # Site settings
 title: Blog
-SEOTitle: Meditation
+SEOTitle: Shirley Blog
 header-img: img/post-bg-desk.jpg
 email: shirley_yuan628@163.com
 description: ""
@@ -12,7 +12,7 @@ github_repo: "https://github.com/ShirleyR-12/ShirleyR-12.github.io.git" # you co
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "天行健，君子以自强不息"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+#sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
