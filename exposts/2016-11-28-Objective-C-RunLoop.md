@@ -1,5 +1,5 @@
 ---
-layout:     expost
+layout:     post
 title:      Objective-C：RunLoop
 subtitle:   深入理解RunLoop
 date:       2016-11-28

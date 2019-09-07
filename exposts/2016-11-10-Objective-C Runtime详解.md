@@ -1,5 +1,5 @@
 ---
-layout:     expost
+layout:     post
 title:      Objective-C Runtime 详解
 subtitle:   Runtime 详解
 date:       2017-02-04
