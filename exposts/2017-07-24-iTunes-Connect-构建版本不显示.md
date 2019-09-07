@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     expost
 title:      iTunes Connect 构建版本不显示
 subtitle:   App打包上传到 App Store, iTunes Connect 构建版本不显示
 date:       2017-07-24

@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     expost
 title:      强化 swift 中的 print
 subtitle:   强化 swift 中的 print 输出函数
 date:       2017-04-07

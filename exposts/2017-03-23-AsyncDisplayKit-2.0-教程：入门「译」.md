@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     expost
 title:      AsyncDisplayKit 2.0 教程:入门「译」
 subtitle:   AsyncDisplayKit Tutorial:Getting Started
 date:       2017-03-23

@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     expost
 title:      Objective-C Runtime 基本使用
 subtitle:   Runtime 使用案例
 date:       2017-02-04

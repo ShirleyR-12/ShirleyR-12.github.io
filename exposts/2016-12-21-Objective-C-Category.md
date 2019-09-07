@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     expost
 title:      Objective-C：Category
 subtitle:   深入解析 Category 的实现原理
 date:       2016-12-21

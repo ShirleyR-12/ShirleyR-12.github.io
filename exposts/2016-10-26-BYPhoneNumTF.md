@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     expost
 title:      BYPhoneNumTF
 subtitle:   一个电话号码格式的文本框
 date:       2017-02-04

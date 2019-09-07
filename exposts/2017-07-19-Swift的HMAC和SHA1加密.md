@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     expost
 title:      Swift的HMAC和SHA1加密
 subtitle:   swift中利用HMAC的SHA1对文本进行加密
 date:       2017-07-19

@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     expost
 title:      JSON转模型 For YYModel
 subtitle:   使用 YYModel库 快速完成 JSON 转模型
 date:       2016-10-26
