@@ -1,0 +1,85 @@
+---
+layout:     post
+title:      
+subtitle:   
+date:       2019-09-25
+author:     Shirley
+header-img: img/post-bg-ios9-web.jpg
+catalog: true
+tags:
+    - HTML
+---
+
+最近由于一些原因，所以想学一下html。发现了如果想要学习这些IT类的东西，其实可以还是借助很多工具的，比如说，各种training
+app或者网页。
+
+在尝试Mimo and Py learn to code 的软件。感觉这种交互式的应用对于自学其实帮助挺大的，尤其是在国外的教学模式下。
+有了这种软件，其实整体的学习效率就会快很多。感觉适合初学，并且非常方便。不过这个实际上就是归属于教育部分，细分
+的话，应该是职业发展教育模块，所以，app主要取决于课程设计。
+
+国内来说，实验楼也不错。当然，还有存在于各大公众号上的课程。
+
+## what is HTML 
+
+HTML是一种标记语言，包含一套markup tages. 它可以对pages的信息进行描述。pages由HTML tages and 文本内容决定。
+一般而言，HTML文档中需要对文档所使用的HTML语言版本进行声明。HTML文档的后缀可以是.html/.htm。
+
+```
+HTML 5申明:
+<!DOCTYPE HTML> 这边HTML的内容大小写并不区分。一般这边会需要这个，然后设计GBF
+```
+
+## Pages
+
+web pages由<html>开始，直到</html>结束。一般pages包含两部分，头部"<head>...</head>"和"<body>...</body>".
+For example:
+
+```
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"> 
+<title>菜鸟教程(runoob.com)</title>
+</head>
+<body>
+ 
+<h1>我的第一个标题</h1>
+ 
+<p>我的第一个段落。</p>
+ 
+</body>
+</html>
+```
+
+## HTML Tages
+
+Tag:"<"+signs+">"
+
+双标签：
+opening tag: "<"+name+">", eg:<html>
+closing tag: "<"+"/"+name+">", eg:</html>
+Element: opening tag+content+closing tag
+
+单标签：
+"<"+signs+"/"+">"
+
+标签之间可以存在嵌套关系也可以存在并列关系。
+
+ ### Heading
+ 一共有六种标题格式方法分别为：
+ <h1>...</h1>
+-<h6>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
