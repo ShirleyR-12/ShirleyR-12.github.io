@@ -1,0 +1,81 @@
+python notes
+
+1. string 的使用
+
+* 匹配与查找
+- str.find()
+- if "" in str:
+- re.findall(正则表达式,string类)
+- re.match（正则表达式,string)
+
+* 判断字符串内容类型:
+- string.isdigit(),return true or false
+- string.isalpha()
+- string.isalnum()
+
+*提取字符串中需要的内容:
+filter(函数，string)
+re.findall(正则表达式,string类)
+re.findall(正则表达式,string类)
+lamda
+
+* From string类 to list类
+list()
+
+2. list 的使用
+
+From list类 to string类：
+''.join()
+
+
+<https://www.cnblogs.com/dancesir/p/11021829.html>
+
+<https://blog.csdn.net/weixin_39679367/article/details/82226699>
+
+
+<http://www.mamicode.com/info-detail-2256460.html>
+
+<https://www.cnblogs.com/foremostxl/p/9363250.html>
+
+感觉我今天玩大发啦~发现新世界
+
+
+我确定我一定要OK~欢迎使用一下的网站
+
+
+现在在工作中经常需要处理各种图像。因而，其实还是图像处理方面的知识是不能丢掉的。
+
+今天我需要处理的一个工作场景就是在非常模糊的图像中，经过抠图处理之后，如何将图像的分辨率进一步的提升。
+
+现在抠图工作，基本上就是可以使用各种开源的方法完成。主要需要应用的技术就是图像识别：yeah, image detection。
+放上网站：
+
+<https://blog.csdn.net/weixin_44484452/article/details/87790710>
+
+
+<http://ai.baidu.com/tech/imageprocess?track=cp:ainsem|pf:pc|pp:chanpin-tuxiangshibie/sousuo/chuli|pu:tuxiangchuli|ci:|kw:10002519>
+<https://cloud.tencent.com/developer/teams>
+<https://tensorflow.google.cn/>
+<https://blog.csdn.net/xjp_xujiping/article/details/81984952>
+
+
+HAHA：
+
+完全理解url的过程啦
+
+一般而言，如果是本地图片的情况下是不可能出现
+
+str的常用方法
+
+
+
+
+<https://www.jianshu.com/p/7fc0a177fd1f>
+
+
+
+
+
+
+<https://blog.csdn.net/vivian_ll/article/details/95172583>
+<https://www.cnblogs.com/gongfuxiaozhen/p/8729278.html>
